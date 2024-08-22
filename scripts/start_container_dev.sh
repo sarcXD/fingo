@@ -1,0 +1,1 @@
+sudo docker run --name=qaim-be --detach --restart on-failure:5 --publish 8080:8080 --env DEPLOY_ENV=dev qaim-be-image
