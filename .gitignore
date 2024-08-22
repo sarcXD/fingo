@@ -1,0 +1,4 @@
+*.env
+.vscode/
+user_files/
+__debug_bin
